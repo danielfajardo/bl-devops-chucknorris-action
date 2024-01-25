@@ -1,0 +1,5 @@
+name: 'bl-devops-chucknorris-action'
+description: 'Get custom Chuck Norris facts'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
